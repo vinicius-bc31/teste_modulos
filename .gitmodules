@@ -1,0 +1,4 @@
+[submodule "vinicius-bc31/silent_inventory_adjustment"]
+	path = vinicius-bc31/silent_inventory_adjustment
+	url = git@github.com:vinicius-bc31/silent_inventory_adjustment.git
+	branch = main
