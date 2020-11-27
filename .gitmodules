@@ -2,3 +2,8 @@
 	path = vinicius-bc31/silent_inventory_adjustment
 	url = git@github.com:vinicius-bc31/silent_inventory_adjustment.git
 	branch = main
+
+[submodule "vinicius-bc31/cost_price_history"]
+	path = vinicius-bc31/cost_price_history
+	url = git@github.com:vinicius-bc31/cost_price_history.git
+	branch = main
